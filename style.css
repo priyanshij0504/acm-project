@@ -1,0 +1,82 @@
+h1{
+    text-align: center;
+    font-size:50px ;
+    font-family:"Georgia";
+    color:rgb(62, 60, 58)
+}
+body{
+    background-color: rgba(231, 231, 106, 0.92);
+    opacity: 100%;
+}
+.edit{
+    column-gap: 50cm;
+    color: black;
+    font-size: large;
+    
+    left: 50px;
+}
+.table{
+    background-color: rgb(252, 194, 155);
+    align-items: center;
+    row-gap:50cm;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+   width: 50%;
+   border-radius: 1cm;
+   box-shadow: inset 2px 2px 3px rgba(221, 211, 120, 0.814), inset -2px -2px 3px rgba(238, 202, 58, 0.6);
+ }
+.styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 100px;
+    font-size: 1rem;
+    text-align: center;
+    font-size:25px;
+    color: #0e0d0d;
+    text-shadow: 1px 0px 0px #000;
+    border-radius: 0px;
+    background-color: rgba(237, 191, 145, 0.768);
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(169, 135, 71, 0.814), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+    margin-left: 390px;
+    margin-right:auto;
+}
+.hello{
+    column-gap: 50cm;
+    color: black;
+    font-size: large;
+    position:relative;
+    right:1.5cm;
+}
+.bye{
+    column-gap: 50cm;
+    color: black;
+    font-size: large;
+    position:relative;
+    right:1cm;
+}
+.mb-2{
+    padding-top:0cm;
+    padding-bottom:1px;
+    margin-top: 0cm;
+}
+.mb-1{
+    font-size: 100%;
+    font-weight: bold;
+}
+.image{
+    border-radius: 5cm;
+}
+.mb-0{
+    margin-right: 10cm;
+}
+#form1{
+    border-radius: 2px;
+    text-align: center;
+    background-color: rgb(239, 239, 244);
+   border:200cm;
+   box-shadow: inset 2px 2px 3px rgba(248, 227, 189, 0.646), inset -2px -2px 3px rgba(217, 212, 159, 0.315);
+   line-height:0cm;
+   padding: 0 0cm;
+}
