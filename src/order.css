@@ -1,0 +1,30 @@
+.flexbox-container {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 10px;
+    justify-content:space-evenly;
+  }
+  .flexbox {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 250px;
+    justify-content:space-between;
+  }
+  h5{
+    position: relative;
+    left: 250px;
+  }
+  .card-title{
+    position: relative;
+    left: 0px;
+  }
+  .text-body-secondary{
+    position: relative;
+    top : -20px;
+  }
+  #complete{
+    position: relative;
+    left : 1075px;
+  }
